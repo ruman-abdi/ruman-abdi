@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ruman Abirahsid</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Frontend developer And Data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruman-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="ruman-abdi" /> </p>
 
